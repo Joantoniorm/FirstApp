@@ -1,0 +1,7 @@
+<h3>Providers</h3>
+
+<div class="shipping-item" *ngFor="let provider of providers | async">
+    <span>{{ provider?.id }}</span>
+    <span>{{ provider?.name }}</span>
+    <span>{{ provider?.details }}</span>
+</div>

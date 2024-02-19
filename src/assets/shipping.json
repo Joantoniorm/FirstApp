@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Express",
+    "price": 23.99
+  },
+  {
+    "type": "Certificated",
+    "price": 9.99
+  },
+  {
+    "type": "Postal",
+    "price": 3.99
+  },
+  {
+    "type": "International",
+    "price": 99.0
+  }
+]
